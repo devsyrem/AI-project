@@ -1,0 +1,6 @@
+run_id,seed,config_name,steps,dek_survived,boss_defeated,dek_final_honor,dek_final_health,trophies_collected,dek_damage_dealt_to_boss,thia_repaired,monsters_killed,simulation_time
+0,100,default,40,False,False,260.0,0,1,50,False,10,0.085086
+1,101,default,13,False,False,0.0,0,0,0,False,2,0.042224
+2,102,default,19,False,False,10.0,0,1,0,False,11,0.040843
+3,103,default,7,False,False,0.0,0,0,0,False,4,0.021614
+4,104,default,7,False,False,10.0,0,1,0,False,5,0.024864
